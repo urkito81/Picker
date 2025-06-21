@@ -9,7 +9,7 @@ apt update && apt upgrade
 pkg install python3
 pkg install git
 
-git clone git clone https://github.com/urkito81/Picker
+git clone https://github.com/urkito81/Picker
 
 
  
